@@ -6,7 +6,7 @@ export default defineConfig({
   output: {
     dir: "dist",
     format: "es",
-    name: "@react/components-package",
+    name: "@joshibineet/react-components-package",
   },
   external: ["react", "react-dom"],
   plugins: [typescript({ tsconfig: "tsconfig.json" })],
