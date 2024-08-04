@@ -54,5 +54,5 @@ export interface TextFieldProps {
     );
   };
   
-  export default TextField;
+  export { TextField };
   

@@ -24,4 +24,4 @@ const FormCard = ({ children, onSubmit, className }: FormCardProps) => {
   );
 };
 
-export default FormCard;
+export { FormCard };

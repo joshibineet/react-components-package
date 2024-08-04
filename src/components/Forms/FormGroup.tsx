@@ -21,5 +21,5 @@ interface FormGroupProps {
     );
   };
   
-  export default FormGroup;
+  export { FormGroup };
   
